@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "win",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCV/opencv_4_6/build/x64/minGW/install/include",
+                "D:/OpenCV/opencv_4_6/build/x64/minGW/install/include/opencv2",
+                "D:/OpenCV/opencv_4_6/build/x64/minGW/install/include/opencv"                
+            ],
+            "defines": [],
+            "compilerPath": "D:/OpenCV/mingw64/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

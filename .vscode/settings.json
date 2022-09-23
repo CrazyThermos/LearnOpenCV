@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "tuple": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "ratio": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "complex": "cpp",
+        "string_view": "cpp",
+        "limits": "cpp"
+    }
+}
