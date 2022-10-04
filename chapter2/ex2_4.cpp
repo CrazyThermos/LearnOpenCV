@@ -18,7 +18,7 @@ void onTarckbaSlide(int pos, void *){
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+
     cv::namedWindow("Example2_4",cv::WINDOW_AUTOSIZE);
     g_cap.open("video/start.mp4");
     int frames = (int)g_cap.get(cv::CAP_PROP_FRAME_COUNT);
